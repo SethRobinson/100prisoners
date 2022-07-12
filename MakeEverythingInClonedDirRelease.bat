@@ -1,0 +1,2 @@
+start BuildAndUploadWebGLInClonedDirRelease.bat
+start BuildAndUploadLinux64InClonedDirRelease.bat
