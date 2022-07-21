@@ -2,6 +2,8 @@
 
 License:  BSD style attribution, see LICENSE.md
 
+![Pic](media/screenshot.png)
+
 # [Play it online](https://www.toolfish.com/100prisoners)
 
 How to compile/run:
